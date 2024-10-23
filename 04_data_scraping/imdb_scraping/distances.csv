@@ -1,0 +1,46 @@
+actor_1,url_1,actor_2,url_2,distance
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Chris Hemsworth,https://www.imdb.com/name/nm1165110/,2.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,2.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Akshay Kumar,https://www.imdb.com/name/nm0474774/,inf
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Jackie Chan,https://www.imdb.com/name/nm0000329/,3.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Bradley Cooper,https://www.imdb.com/name/nm0177896/,2.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Adam Sandler,https://www.imdb.com/name/nm0001191/,3.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,3.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Dwayne Johnson,https://www.imdb.com/name/nm0425005/,Chris Evans,https://www.imdb.com/name/nm0262635/,2.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,1.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Akshay Kumar,https://www.imdb.com/name/nm0474774/,3.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Jackie Chan,https://www.imdb.com/name/nm0000329/,2.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Bradley Cooper,https://www.imdb.com/name/nm0177896/,1.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Adam Sandler,https://www.imdb.com/name/nm0001191/,3.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,2.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Chris Hemsworth,https://www.imdb.com/name/nm1165110/,Chris Evans,https://www.imdb.com/name/nm0262635/,2.0
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Akshay Kumar,https://www.imdb.com/name/nm0474774/,inf
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Jackie Chan,https://www.imdb.com/name/nm0000329/,3.0
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Bradley Cooper,https://www.imdb.com/name/nm0177896/,2.0
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Adam Sandler,https://www.imdb.com/name/nm0001191/,3.0
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,1.0
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Robert Downey Jr.,https://www.imdb.com/name/nm0000375/,Chris Evans,https://www.imdb.com/name/nm0262635/,1.0
+Akshay Kumar,https://www.imdb.com/name/nm0474774/,Jackie Chan,https://www.imdb.com/name/nm0000329/,inf
+Akshay Kumar,https://www.imdb.com/name/nm0474774/,Bradley Cooper,https://www.imdb.com/name/nm0177896/,inf
+Akshay Kumar,https://www.imdb.com/name/nm0474774/,Adam Sandler,https://www.imdb.com/name/nm0001191/,3.0
+Akshay Kumar,https://www.imdb.com/name/nm0474774/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,inf
+Akshay Kumar,https://www.imdb.com/name/nm0474774/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,inf
+Akshay Kumar,https://www.imdb.com/name/nm0474774/,Chris Evans,https://www.imdb.com/name/nm0262635/,inf
+Jackie Chan,https://www.imdb.com/name/nm0000329/,Bradley Cooper,https://www.imdb.com/name/nm0177896/,3.0
+Jackie Chan,https://www.imdb.com/name/nm0000329/,Adam Sandler,https://www.imdb.com/name/nm0001191/,3.0
+Jackie Chan,https://www.imdb.com/name/nm0000329/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,3.0
+Jackie Chan,https://www.imdb.com/name/nm0000329/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Jackie Chan,https://www.imdb.com/name/nm0000329/,Chris Evans,https://www.imdb.com/name/nm0262635/,3.0
+Bradley Cooper,https://www.imdb.com/name/nm0177896/,Adam Sandler,https://www.imdb.com/name/nm0001191/,3.0
+Bradley Cooper,https://www.imdb.com/name/nm0177896/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,2.0
+Bradley Cooper,https://www.imdb.com/name/nm0177896/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Bradley Cooper,https://www.imdb.com/name/nm0177896/,Chris Evans,https://www.imdb.com/name/nm0262635/,2.0
+Adam Sandler,https://www.imdb.com/name/nm0001191/,Scarlett Johansson,https://www.imdb.com/name/nm0424060/,3.0
+Adam Sandler,https://www.imdb.com/name/nm0001191/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Adam Sandler,https://www.imdb.com/name/nm0001191/,Chris Evans,https://www.imdb.com/name/nm0262635/,3.0
+Scarlett Johansson,https://www.imdb.com/name/nm0424060/,Sofia Vergara,https://www.imdb.com/name/nm0005527/,3.0
+Scarlett Johansson,https://www.imdb.com/name/nm0424060/,Chris Evans,https://www.imdb.com/name/nm0262635/,2.0
+Sofia Vergara,https://www.imdb.com/name/nm0005527/,Chris Evans,https://www.imdb.com/name/nm0262635/,2.0
